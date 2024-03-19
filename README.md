@@ -21,3 +21,7 @@ Implementing multi-category classification using neural networks.
 ## PCA
 
 Implement Principal Component Analysis.
+
+## Final Project
+
+Predicting house prices using neural networks.
